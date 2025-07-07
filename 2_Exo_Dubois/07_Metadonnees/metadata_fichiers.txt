@@ -1,0 +1,11 @@
+Fichier : clients_confidentiels.xlsx
+Créé : 2025-06-19 22:41
+Dernière modification : 2025-06-20 18:36
+Auteur : mdubois
+Chemin original : C:\Users\mdubois\Documents\clients_confidentiels.xlsx
+
+Fichier : archive.zip
+Créé : 2025-06-20 18:36
+Dernière modification : 2025-06-20 18:36
+Auteur : inconnu
+Contient : fichiers.txt, note.txt

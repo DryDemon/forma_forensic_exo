@@ -1,0 +1,4 @@
+[Image Description]
+Une fenêtre d’explorateur de fichiers est ouverte sur le bureau de M. Dubois.
+Un fichier nommé 'archive.zip' est visible. Taille : 1.2 Mo
+Date de modification : 2025-06-20 18:36

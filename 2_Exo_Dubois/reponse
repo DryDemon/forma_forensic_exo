@@ -1,0 +1,41 @@
+ Faits établis :
+Connexion de l’utilisateur à 18h32, déconnexion à 18h38.
+
+Une clé USB a été connectée, deux fichiers copiés dessus : clients_confidentiels.xlsx et archive.zip.
+
+Le fichier archive.zip contient potentiellement des données sensibles.
+
+Une connexion externe a eu lieu avec une adresse IP via HTTPS, 560 KB ont été envoyés.
+
+L’email envoyé contient une allusion à un “paquet” laissé à un contact externe.
+
+❓ Hypothèses possibles :
+Fuite intentionnelle de données (exfiltration via clé USB et/ou réseau).
+
+Le fichier archive.zip pourrait être un conteneur de données sensibles.
+
+Le mail peut confirmer une volonté de transmettre quelque chose, mais reste vague.
+
+⚠️ Zones d’ombre :
+Le contenu réel de l’archive est inconnu.
+
+On ne sait pas si le transfert réseau est lié à l’exfiltration ou autre chose.
+
+L’identité réelle du contact externe n’est pas vérifiée.
+
+✅ Conclusion pédagogique :
+Les élèves devraient comprendre qu’on ne peut pas “accuser” M. Dubois sans :
+
+Vérifier le contenu du fichier ZIP.
+
+Analyser plus en profondeur la destination IP.
+
+Avoir une preuve que les fichiers sensibles ont été réellement transmis.
+
+Ils doivent :
+
+S'appuyer uniquement sur des preuves.
+
+Remettre en cause les journaux, l’email, voire l’entretien.
+
+Documenter précisément et communiquer avec clarté, sans parti pris.

@@ -1,0 +1,11 @@
+Fichier : archive.zip
+SHA256 : 3d4f2a3b5f1ce1ac0d6b982abf5f1271a6890abacd3e4df4a345f712a973dd8a
+Correspondance dans base VirusTotal : OUI (flagged: 2/70 - possible steganographie)
+
+Fichier : fichiers.txt (dans archive.zip)
+SHA256 : 71f1d8b4b9a2c22e93050a44fda273a4a4dbdde5f8c640e37deba45a1b832aad
+Aucune correspondance
+
+Fichier : note.txt (dans archive.zip)
+SHA256 : 9ae8ff58abf5beae9f0d7123467f620cb377f519cd44f20d5fd0d671a2aefc5e
+Contenu : "Rendez-vous dans 2 semaines. Supprime tout."

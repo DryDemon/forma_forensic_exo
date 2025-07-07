@@ -1,0 +1,6 @@
+[2025-06-20 18:32:11] User login: mdubois
+[2025-06-20 18:35:47] External USB device connected: /dev/sdb1
+[2025-06-20 18:36:10] File copied: /home/mdubois/Documents/clients_confidentiels.xlsx
+[2025-06-20 18:36:11] File copied: /home/mdubois/Documents/archive.zip
+[2025-06-20 18:37:20] External USB device removed: /dev/sdb1
+[2025-06-20 18:38:45] User logout: mdubois

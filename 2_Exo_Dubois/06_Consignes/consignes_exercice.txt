@@ -1,0 +1,18 @@
+Exercice de Forensic : L’affaire du fichier mystérieux
+
+Objectifs :
+- Travailler à partir de faits
+- Garder un esprit critique (sources humaines et techniques)
+- Être méthodique et rigoureux
+- Bien documenter ses démarches
+- Savoir présenter ses conclusions
+
+Consignes :
+1. Analysez tous les documents fournis (logs, mails, capture réseau, etc.)
+2. Listez uniquement les faits observables
+3. Discutez de la fiabilité des sources
+4. Relevez les incohérences ou informations manquantes
+5. Rédigez un rapport structuré (faits, hypothèses, incertitudes, conclusion provisoire)
+6. Présentez oralement votre analyse comme une équipe d’experts
+
+Rappel : ne tirez pas de conclusions hâtives. Travaillez comme des analystes.

@@ -1,0 +1,3 @@
+[2025-06-18] Ticket #3249 – mdubois : demande d'accès temporaire au dossier partagé "Projets_Finaux"
+[2025-06-19] Ticket #3251 – mdubois : signalement d’un problème d’envoi de mail chiffré
+[2025-06-20] Ticket #3253 – IT : Suppression du compte utilisateur mdubois planifiée pour le 21/06 à 09:00
