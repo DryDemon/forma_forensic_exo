@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# py -m pip install pycryptodome
+
 import os
 from Crypto.Util.number import inverse
 from Crypto.PublicKey import RSA
