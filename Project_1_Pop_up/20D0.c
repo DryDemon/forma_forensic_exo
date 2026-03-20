@@ -124,7 +124,7 @@ struct tagSAFEARRAY {
 // ------------------------- Classes --------------------------
 
 // .?AVbad_alloc@std@@ (base classes: .?AVexception@std@@)
-// .?AVbad_array_new_length@std@@ (base classes: .?AVexception@std@@, .?AVbad_alloc@std@@)
+// .?AVbad_array_new_length@std@@ (base classes: .?AVbad_alloc@std@@, .?AVexception@std@@)
 // .?AVexception@std@@
 // .?AVtype_info@@
 // `X
@@ -1364,7 +1364,7 @@ int32_t _40__guard_check_icall_40_4(void) {
 // Address range: 0x10002f3e - 0x100030df
 int32_t ___isa_available_init(void) {
     struct struct2 v1; // 0x10002f7f
-    struct struct3 v2; // 0x10002fc0
+    struct struct1 v2; // 0x10002fc0
     // 0x10002f3e
     g23 = 0;
     g17 |= 1;
